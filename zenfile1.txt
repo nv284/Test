@@ -1,0 +1,7 @@
+This is my first git folder.
+
+Hii im using git for convinience
+
+class demo{
+fegfdchvn 
+}

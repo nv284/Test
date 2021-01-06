@@ -1,1 +1,3 @@
-testing knowledge og git and github
+testing knowledge of git and github
+Edited by siddhi
+
